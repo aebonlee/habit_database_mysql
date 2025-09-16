@@ -2,7 +2,7 @@
 
 IT CookBook, 난생처음 MySQL - habit_database_mysql
 
-https://cdn-prod.hanbit.co.kr/books/B7517225831_l.jpg
+<img src="https://cdn-prod.hanbit.co.kr/books/B7517225831_l.jpg">
 
 
 
